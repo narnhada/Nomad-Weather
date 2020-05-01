@@ -1,6 +1,6 @@
 # Nomad-Weather
 
-building the app using react-native and expo
+Building the app using react-native and expo
 
 [Nomad Academy]<br>
 https://academy.nomadcoders.co/p/fucking-react-native-apps
